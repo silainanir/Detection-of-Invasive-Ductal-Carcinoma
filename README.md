@@ -1,2 +1,2 @@
-# CSE4062S21_Grp7  
-**Deliveries are located in branches named like "delivery1", "delivery2"...**
+# Detection of Invasive Ductal Carcinoma (IDC) 
+**Abstract—Invasive ductal carcinoma (IDC) is a type of breast cancer. The intention of this study is to predict and detect IDC and non-IDC tissue slices by analysing the images of them selected from the dataset. To image processing, supervised which are SVM, k-NN, Decision Tree, and ANN algorithms, and unsupervised which is k-means, learning methods have been used. Results show that between four supervised algorithms that were used in this study, the SVM algorithm gives the best result in total (accuracy rate=0.82 and best F1 score) similar to the related works which were studied before for breast cancer. Also, the k-mean clustering model was the most suitable when k=7 (lowest entropy value).**
